@@ -1,0 +1,5 @@
+C:\Users\Sena\Desktop\BD-AUTOMOVIL\Automoviles\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\BD-AUTOMOVIL\Automoviles\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Desktop\BD-AUTOMOVIL\Automoviles\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Sena\Desktop\BD-AUTOMOVIL\Automoviles\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\Sena\Desktop\BD-AUTOMOVIL\Automoviles\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
