@@ -1,0 +1,31 @@
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Datos.dll
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\pale\Documents\Visual Studio 2017\Projects\TresCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Sena\Desktop\TresCapas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sena\Desktop\TresCapas\Presentacion\obj\Debug\Presentacion.pdb
